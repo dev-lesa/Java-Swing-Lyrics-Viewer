@@ -81,3 +81,4 @@ Al iniciar `MainDinamico`, el flujo es el siguiente:
 
 > [!TIP]
 > Si vas a usar `MainQuemado`, asegúrate de tener una imagen válida en la ruta `src/main/resources/img.png` o ajusta la ruta en el código.
+> 
